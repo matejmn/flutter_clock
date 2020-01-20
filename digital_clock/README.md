@@ -14,5 +14,5 @@ Clock app made for Flutter Clock chanllenge.
 *Light theme with 12h mode*  
 ![Light 12h mode](screenshot_light_12.png)
 
-*Animation*
+*Animation*  
 ![Animation](animation_dark_24.gif)
